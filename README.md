@@ -65,5 +65,5 @@ env
 - GEMINI_API_KEY=
 
 
-para crear la api key de gemini = https://platform.openai.com/api-keys
-para crear la api key de gemini = https://aistudio.google.com/api-keys?project=gen-lang-client-0268660905
+- para crear la api key de gemini = https://platform.openai.com/api-keys
+- para crear la api key de gemini = https://aistudio.google.com/api-keys?project=gen-lang-client-0268660905
