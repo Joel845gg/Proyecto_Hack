@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+colab_transfer.zip
+.pytest_cache/
+.coverage
