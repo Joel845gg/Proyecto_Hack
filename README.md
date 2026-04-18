@@ -57,3 +57,9 @@ Al cabo de menos de un minuto, los archivos maestrales reposarán en el director
 - Estructuración JSON anidada correcta de `pys_adicionales_detalle` estandarizada.
 - Mecanismo "Arma tu Plan" resuelto a través de inferencia combinatoria LLM.
 - Generación de Archivo Parquet (`benchmark_industria.parquet`).
+
+
+env
+
+OPENAI_API_KEY=
+GEMINI_API_KEY=
