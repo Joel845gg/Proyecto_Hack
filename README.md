@@ -61,5 +61,5 @@ Al cabo de menos de un minuto, los archivos maestrales reposarán en el director
 
 env
 
-OPENAI_API_KEY=
-GEMINI_API_KEY=
+- OPENAI_API_KEY=
+- GEMINI_API_KEY=
